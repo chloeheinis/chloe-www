@@ -1,0 +1,29 @@
+$base-font-size: 10px;
+$base-grid: 0.8rem;
+
+$grid-8: $base-grid;
+$grid-16: $base-grid*2;
+$grid-20: $base-grid*2.5;
+$grid-24: $base-grid*3;
+$grid-28: $base-grid*3.5;
+$grid-32: $base-grid*4;
+$grid-40: $base-grid*5;
+$grid-48: $base-grid*6;
+$grid-56: $base-grid*7;
+$grid-72: $base-grid*9;
+$grid-80: $base-grid*10;
+$grid-96: $base-grid*12;
+$grid-192: $base-grid*24;
+
+
+html {
+
+--onprimary: #000;
+--primary: #F6F2F0;
+--footer: #f3ece8;
+
+--pink: #F7A98F;
+--yellow: #EFDEAA;
+--red: #FF5252;
+
+}

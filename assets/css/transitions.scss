@@ -1,0 +1,28 @@
+
+.page-enter {
+    left: 100%;
+    transform: rotate(-10deg);
+    opacity: 0;
+}
+
+.page-leave {
+    right: 0;
+    transform: rotate(0deg);
+    opacity: 1;
+}
+
+.page-enter-active, .page-leave-active {
+    transition: 0.25s;
+}
+
+.page-enter-to {
+    opacity: 1;
+    transform: rotate(0deg);
+    left: 0;
+}
+
+.page-leave-to {
+    right: 100%;
+    transform: rotate(10deg);
+    opacity: 0;
+}

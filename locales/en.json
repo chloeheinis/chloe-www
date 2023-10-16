@@ -1,0 +1,164 @@
+{
+    "header": {
+        "designs": "work",
+        "info": "infos",
+        "contact": "contact",
+        "alt": {
+            "logo": "Logo Chloé Heinis"
+        }
+    },
+    "index": {
+        "content": "Portfolio Chloé Heinis",
+        "h1": {
+            "first": "Freelance",
+            "second": "Art director"
+        },
+        "h3": "Visual identities & communications for committed companies",
+        "button": "See more projects"
+
+    },
+    "design": {
+        "title": "Work",
+        "content": "Featured projects",
+        "h1": "Work"
+    },
+    "info": {
+        "title": "Infos",
+        "content": "Learn more about the studio",
+        "h1": "Hi !",
+        "h2": "I'm Chloe, art director & passionate graphic designer based in Strasbourg.",
+        "paragraph-1": "Graduated from the Haute École des Arts du Rhin in 2015, I decided, after several experiences in agencies and advertisers, to start my own business. Since then, I support companies and associations in the creation and development of their visual identity.",
+        "weworkwith": "I work with",
+        "paragraph-2": "L'agence parisienne du climat, le CLER (Réseau pour la transition énergétique), Michael & Giso, KWALT agency,  the éditions Geuthner, and more",
+        "whatwedo": "What I do",
+        "paragraph-3": "Visual identities, Art direction, Website design, Editorial design, Print & web communication, Illustration, Typography,... "
+    },
+    "contact": {
+        "title": "Contact",
+        "content": "Contact details",
+        "h1": "Send me an"
+    },
+    "mentions": {
+        "h1": "Legals",
+        "mention": [
+            "Chloé Heinis - Entreprise individuelle",
+            "SIRET : 81468536800049",
+            "Site web hébergé par OVH.com",
+            "All rights reserved"
+        ]
+    },
+    "next": {
+        "next": "Next projects"
+    },
+    "filters": {
+        "all": "all",
+        "webdesign": "webdesign",
+        "illustration": "illustration",
+        "logo": "logo",
+        "typography": "typography",
+        "edition": "edition",
+        "visualidentity": "visual identity"
+    },
+    "legals": {
+        "h1": "CGV",
+        "text": [
+            {
+                "title": "Désignation des parties",
+                "content": ["Le terme \"Client\" désigne toute personne morale ou physique, ayant requis les compétences de Chloé Heinis (Entreprise individuelle) pour toute création dans le cadre des compétences du graphisme. Le terme \"Tiers\" désigne toute personne physique ou morale non partie au contrat. Le terme \"Prestataire\" désigne Chloé Heinis (Entreprise individuelle), Directrice artistique et Designer graphique indépendant."]
+            },
+            {
+                "title": "Généralités",
+                "content": ["Les présentes conditions générales de vente ont pour objet de définir les droits et obligations des parties lors de la vente de produits réalisés par le Prestataire pour ses Clients dans le cadre de son activité commerciale de création et de conception graphique. Le Prestataire se réserve le droit de modifier ses conditions générales de vente, ses formules et ses tarifs à tout moment et sans préavis. Ces modifications n'auront aucune incidence sur les commandes en cours. Si le Client est un particulier, il reconnaît être majeur conformément aux lois du pays où il réside.Le Client faisant appel aux services de Chloé Heinis reconnaît avoir pris connaissance et accepté sans réserve les conditions générales de vente suivantes, ainsi que les mises en garde énoncées dans l'Extrait de la loi n° 57-298 du 11 mars 1957 sur la propriété artistique (J.O. du 14 mars 1957) des droits des auteurs concernant les lois de la propriété intellectuelle."]
+            },
+            {
+                "title": "Responsabilité du client",
+                "content": ["Le Client s'engage à fournir des informations justes et sincères et s'engage à prévenir le Prestataire de tout changement concernant les données fournies et sera seul responsable des éventuels dysfonctionnements qui pourraient résulter d'informations erronées. Le Client doit maintenir une adresse e-mail et une adresse postale valides."]
+            },
+            {
+                "title": "Engagements des parties",
+                "content": [
+                    "D’une façon générale, le Client et le Prestataire s’engagent à collaborer activement afin d’assurer la bonne exécution du contrat. Chacun s’engage à communiquer toutes les difficultés dont il aurait connaissance au fur et à mesure dans l'avancement du projet, pour permettre à l’autre partie de prendre les mesures nécessaires.",
+                    "a – Le Client",
+                    "Pour permettre au Prestataire de réaliser sa mission, le Client s’engage à :",
+                    "• Etablir un cahier des charges détaillé qui ne subira plus de modification, sauf accord des parties, après avoir été approuvé par le prestataire. Dans le cas où des modifications impliqueraient un remaniement substantiel du cahier des charges initial, ces dernières seront facturées en sus du devis initial.",
+                    "• Remettre au Prestataire le bon de commande/devis (daté et signé)",
+                    "• Fournir tous les éléments documentaires, graphiques et textuels nécessaires à la bonne réalisation du contrat, (notamment dans les bons formats exploitables en fonction des supports visés) le client s'engage à fournir toutes les informations légales à ajouter dans les documents et endosse la responsabilité de fournir le contenu des documents qu'il édite.",
+                    "• Disposer des droits nécessaires sur les éléments fournis ci-dessus. Seule la responsabilité du commanditaire pourra être engagée à ce titre.",
+                    "• Collaborer activement à la réussite du projet en apportant au Prestataire dans les délais utiles toutes les informations et documents nécessaires à la bonne appréhension des besoins et à la bonne exécution des prestations.",
+                    "• Se conformer strictement aux préconisations techniques et créatives faites par le Prestataire.",
+                    "• Garantir le Prestataire contre toute action qui pourrait lui être intentée du fait du caractère des données ou informations (textes, images, sons) qui auraient été fournies ou choisies par le Client.",
+                    "• Régler dans les délais précis les sommes dues au Prestataire.",
+                    "• Informer le Prestataire d’une éventuelle mise en concurrence avec d’autres prestataires.",
+                    "b – Le Prestataire",
+                    "• Au besoin le Prestataire pourra intervenir dans l’élaboration du cahier des charges, conjointement avec le Client.",
+                    "• Le Prestataire s’engage à informer de manière régulière et efficace le Client de l’avancée de la réalisation du projet et ce, notamment, au travers de validations soumises au Client.",
+                    "• Au titre de la confidentialité et pendant toute la durée des présentes et même après leur cessation pour quelque cause que ce soit, le Prestataire s’engage à conserver strictement confidentiel l’ensemble des informations et documents de quelque nature que ce soit relatifs au Client, auxquels il aurait pu avoir accès dans le cadre notamment de l’exécution de la présente mission."
+                ]
+            },
+            {
+                "title": "Frais annexes",
+                "content": ["Les éléments divers éventuellement nécessaires à la réalisation des prestations du Prestataire et ne relevant pas de ses offres ne sont pas compris dans les prix indiqués. Il s’agit par exemple des polices typographiques, des photographies ou illustrations issues de banques d’images. Sont à facturer en plus : les modifications demandées par le client en cours de réalisation, si elles impliquent un remaniement du projet (corrections d’auteur). Le contenu textuel permettant la réalisation du produit devra être fourni par le Client. Les déplacements nécessaires à la bonne réalisation du contrat pourront également être facturés au Client."]
+            },
+            {
+                "title": "Bon de commande et début des travaux",
+                "content": ["Le devis signé par le Client vaut pour acceptation des CGV et fait office de bon de commande. Celui-ci doit s’accompagner du paiement de 30% du prix global des prestations à fournir si cela est précisé sur le devis. Les travaux débuteront lorsque tous les documents (devis signé et 30% du montant global payé) et éléments documentaires graphiques et textuels nécessaires à la bonne réalisation du contrat, seront à la disposition du Prestataire."]
+            },
+            {
+                "title": "Délais d’éxécution",
+                "content": ["Les délais de livraison ou d’exécution sont donnés à titre indicatif et ne sauraient engager Chloé Heinis d’une façon absolue. Chloé Heinis ne peut, en aucun cas, être tenu de verser une indemnité quelconque, en cas de retard, de dommages ni intérêts. Ce retard ne peut en aucun cas donner lieu à annulation de l’ordre stipulé au bon de commande."]
+            },
+            {
+                "title": "Validations",
+                "content": [
+                    "a – Après la (ou les) phase(s) de création du projet, le Client s’engage à transmettre au Prestataire ses validations de manière claire et explicite par l’envoi d’un email ou d’un courrier daté et signé.",
+                    "b – A défaut d’une validation ou d’une demande de modification des maquettes par le client dans un délai de quinze jours, celles-ci seront considérées comme validées par les deux parties. Le travail réalisé, livré et tacitement validé, implique que les sommes correspondantes à ce travail sont dues.",
+                    "c – La signature du « BAT » (Bon à Tirer) ou du « Bon pour accord » dégage la responsabilité de Chloé Heinis, de toute erreur ou omission de quelque nature qu’elle soit. Ces bons visés et datés par le client, son mandataire ou représentant, valent acceptation du travail effectué et autorisent sa livraison selon le bon de commande. Avec l’émergence d’Internet, un clic de validation ou un accord écrit du client dans un e-mail vaut pour « Bon pour accord », au même titre qu’une signature.",
+                    "d – A défaut de « Bon à Tirer » ou de « Bon pour accord », valant acceptation du travail effectué, tout travail livré à l’impression, à la demande du client, est considéré comme « Bon à Tirer » ou « Bon pour accord », et vaut approbation de la livraison sans conséquence de contestations.",
+                    "e – Les tolérances admises, de manière générale sur l’ensemble des productions sont de l’ordre de 10 % en plus ou moins de quantité, de poids (dans le cas de produits matériels) et de qualité.",
+                    "f – Les productions et créations du Prestataire sont stipulées livrées dès lors qu’elles ont été réceptionnées par courrier postal ou transmises numériquement via Internet au client lui- même, son mandataire ou bien encore son imprimeur. Il est de la responsabilité de ces derniers d’archiver et de sauvegarder ces éléments. Dans la mesure du possible, le Prestataire, préserve tous les fichiers clients, mais ne saurait être tenu responsable suite à une perte partielle ou totale de ces données en raison d’un sinistre, d’une panne matérielle, d’un vol ou de toute autre raison indépendante de sa volonté.",
+                    "g – Les moyens de visualisation des maquettes avant leur départ en impression étant nombreux et ne répondant pas aux mêmes normes, le Prestataire ne pourra pas être tenu responsable des éventuelles différences entre une visualisation informatique et le résultat final des produits. La restitution des couleurs ne peut être garantie à l’identique entre l’outil informatique et la chaîne de fabrication des partenaires du Graphiste. Les couleurs visibles sur un écran (quel qu’il soit) ne sont pas contractuelles et ne seront en aucun cas celles restituées sur les différents supports proposés (il en est de même pour les impressions réalisées sur une imprimante)."
+                ]
+            },
+            {
+                "title": "Facture et règlement",
+                "content": ["Sauf délai de paiement supplémentaire clairement accordé, le règlement de la facture est dû à la date de livraison ou au maximum 30 jours après l'émission de celle-ci. Le paiement s'effectue par virement bancaire ou par chèque à l'ordre de Chloé Heinis. En cas de retard, des pénalités seront exigibles sans qu'un rappel soit nécessaire conformément à la loi.Tout incident de paiement est passible d’intérêts de retard. Le montant des pénalités résulte de l’application aux sommes restant dues d’un taux d’intérêt légal en vigueur au moment de l’incident. En cas de non-paiement, le client prendra en charge tous les frais de recouvrement."]
+            },
+            {
+                "title": "Acompte et annulation de commande",
+                "content": ["En cas de rupture du contrat avant son terme par le Client, celui-ci s’engage formellement à régulariser et rétribuer les montants relatifs au calendrier en cours, aux postes réalisés ou en cours de réalisation, ainsi qu’aux services complémentaires effectués. L’ensemble des droits d’auteur restent la propriété exclusive et entière du Prestataire, à l’exception des données fournies par le Client. Les fichiers et données sources crées et utilisées par le Prestataire ne sauraient dès lors être revendiquées par le Client sans une contribution financière. Les maquettes, et plus largement, toutes les œuvres originales, restent la propriété du Prestataire, de même que les projets refusés. L’acompte déjà versé restera acquis par le Prestataire, constituant un dédommagement pour le travail entrepris."]
+            },
+            {
+                "title": "Incapacité de travail",
+                "content": ["En cas d’incapacité de travail, par suite de maladie ou d’accident, le Prestataire se réserve le droit modifier le calendrier en cours sans qu’il ne puisse être exigé par le Client le versement d’indemnités. Il est admis que le Prestataire se doit d’avertir le Client dès le premier jour ouvrable de son incapacité."]
+            },
+            {
+                "title": "La force majeure",
+                "content": ["Les parties ne peuvent être considérées comme responsables ou ayant faillies à leurs obligations contractuelles, lorsque le défaut d'exécution des obligations respectives a pour origine la force majeure ; le contrat entre les parties est suspendu jusqu'à l'extinction des causes ayant engendrées la force majeure. La force majeure prend en compte des faits ou circonstances irrésistibles, extérieurs aux parties, imprévisibles et indépendants de la volonté des parties, malgré tous les efforts raisonnablement possibles pour les empêcher. Sont aussi considérés comme cas de force majeure, le blocage des moyens de transports ou d'approvisionnements, tremblements de terre, incendies, tempêtes, inondations, foudre, l'arrêt des réseaux de télécommunication, et notamment tous les réseaux accessibles par Internet, ou difficultés propres aux réseaux de télécommunication extérieurs aux parties. La partie touchée par la force majeure en avisera l'autre dans les cinq (5) jours ouvrables suivant la date à laquelle elle en aura eu connaissance. Les deux parties conviendront alors des conditions dans lesquelles l'exécution du contrat sera poursuivie."]
+            },
+            {
+                "title": "Règlement des litiges",
+                "content": ["Le contrat est soumis au droit Français. Toute contestation ou litige portant sur l’interprétation ou l’exécution du présent contrat sera porté, à défaut d’un accord amiable entre les parties, devant les tribunaux compétents de Strasbourg, à qui elles attribuent expressément juridiction."]
+            },
+            {
+                "title": "Propriété des travaux réalisés",
+                "content": ["La totalité de la production et des droits s’y rapportant, objet de la commande, demeure la propriété entière et exclusive du Prestataire tant que les factures émises ne sont pas payées en totalité par le Client, à concurrence du montant global de la commande et des avenants éventuels conclus en cours de prestation. De façon corollaire, le Client deviendra propriétaire de fait de la production et des droits cédés à compter du règlement final et soldant de toutes les factures émises par le Prestataire dans le cadre de la commande. Sauf mention contraire figurant sur le devis, les fichiers de production et les sources restent la propriété du Prestataire. Seul le produit fini sera adressé au Client. A défaut d’une telle mention et si le Client désire avoir les sources des documents, un avenant à ce présent document devra être demandé."]
+            },
+            {
+                "title": "Principes de cession",
+                "content": ["La reproduction et la rédition des créations du Prestataire sont soumises à la perception de droits d’auteur selon la loi du 11 mars 1957. La cession de ces droits ne concerne que l’utilisation spécifiquement prévue. Toute utilisation ultérieure ou différente nécessite une nouvelle convention. Les modifications ou interprétations d’une création graphique ne peuvent être faites, en aucun cas, sans le consentement du Prestataire. La signature ne peut être supprimée sans l’accord du Prestataire. Une idée proposée par le Client ne constitue pas, en soi, une création."]
+            },
+            {
+                "title": "Droits de reproduction et de diffusion",
+                "content": ["Les droits de reproduction et de diffusion sont calculés en fonction de la diffusion de la création. Ils peuvent être cédés forfaitairement ou partiellement. Chaque adaptation différente de l’œuvre originale faisant l’objet d’une nouvelle cession de droits d’auteur. Pour chaque nouvelle édition, le montant des droits doit être réactualisé. Les droits sont cédés dans le périmètre temporel et géographique du présent contrat et ne sauraient en excéder cette limite. Pour permettre au commanditaire d’exploiter librement la prestation fournie dans le cadre de son activité, l’ensemble des droits patrimoniaux relatifs à la création du prestataire, au titre du projet seront entièrement et exclusivement cédés au commanditaire, et ce pour la diffusion sur les supports spécifiquement adressés lors de la commande, lors du paiement effectif de l’intégralité des honoraires dus."]
+            },
+            {
+                "title": "Copyright et mention commerciale",
+                "content": ["Sauf mention contraire explicite du Client, le Prestataire se réserve la possibilité d’inclure dans la réalisation une mention commerciale indiquant clairement sa contribution, telle la formule \"Design par Chloé Heinis\" assortie lorsque le support le permet d’un lien hypertexte pointant vers le site commercial de son activité (chloeheinis.fr)"]
+            },
+            {
+                "title": "Droit de publicité",
+                "content": ["Le Client devra remettre au prestataire un ou plusieurs exemplaires des créations qui ont été imprimées si le prestataire lui en fait la demande.  Le Prestataire se réserve le droit de mentionner les réalisations effectuées pour le Client sur ses documents de communication externe et de publicité (site internet, portfolio, etc.) et lors de démarchages de prospection commerciale. Toute réserve au droit de publicité de le Prestataire devra être notifiée par le Client et négociée avant la signature du devis, puis mentionnée sur la facture."]
+            }
+        ]
+    }
+}

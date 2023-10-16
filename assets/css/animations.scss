@@ -1,0 +1,84 @@
+.animation-links:hover {
+    animation: 2s linear 0s infinite alternate links;
+}
+.animation-button:hover {
+    background: linear-gradient(123deg, var(--red), var(--pink), var(--red));
+    background-size: 600% 600%;
+    animation: button 5s ease infinite alternate;
+}
+.animation-button--child:hover {
+    div{
+        background: linear-gradient(123deg, var(--red), var(--pink), var(--red));
+        background-size: 600% 600%;
+        animation: button 5s ease infinite alternate;
+    }
+}
+.animation-logo__asset:hover {
+    animation-play-state: paused;
+}
+.animation-logo__asset {
+    animation: logoassets 1s infinite;
+    animation-timing-function: steps(1, end);
+    animation-play-state: paused;
+    background-size: 1100%;
+}
+
+@media (hover: hover) {
+    .animation-logo__asset:hover {
+        animation-play-state: running;
+    }
+}
+
+@keyframes logoassets {
+    from {
+        background-position: 0 100%;
+    }
+    10% { 
+        background-position: 10% 100%;
+    } 
+    20% {
+        background-position: 20% 100%;
+    }
+    30% {
+        background-position: 30% 100%;
+    }
+    40% { 
+        background-position: 40% 100%;
+    } 
+    50% {
+        background-position: 50% 100%;
+    }
+    60% {
+        background-position: 60% 100%;
+    }
+    70% {
+        background-position: 70% 100%;
+    }
+    80% {
+        background-position: 80% 100%;
+    }
+    90% {
+        background-position: 90% 100%;
+    }
+    100% {
+        background-position: 100% 100%;
+    }
+}
+
+@keyframes links {
+    33% {
+        color: var(--red);
+    }
+    66% { 
+        color: var(--pink);
+    }  
+    100% {
+        color: var(--red);
+    }
+}
+
+@keyframes button {
+    0%{background-position:0% 13%}
+    50%{background-position:100% 88%}
+    100%{background-position:0% 13%}
+}

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="26" height="26" transform="translate(-0.347 -0.347)" fill="#ff5252"/>
+    </clipPath>
+    <clipPath id="clip-Cursor">
+      <rect width="28" height="28"/>
+    </clipPath>
+  </defs>
+  <g id="Cursor" clip-path="url(#clip-Cursor)">
+    <g id="Groupe_2" data-name="Groupe 2" transform="translate(1.347 1.347)">
+      <g id="Groupe_1" data-name="Groupe 1" clip-path="url(#clip-path)">
+        <path id="Tracé_1" data-name="Tracé 1" d="M12.653,22.494a9.841,9.841,0,1,0-9.841-9.841,9.841,9.841,0,0,0,9.841,9.841m0,2.812A12.653,12.653,0,1,0,0,12.653,12.652,12.652,0,0,0,12.653,25.305" fill="#ff5252" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

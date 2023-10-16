@@ -1,0 +1,30 @@
+{
+  "name": "clo-2021",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxt/content": "^1.15.1",
+    "@nuxtjs/i18n": "^7.2.0",
+    "core-js": "^3.19.3",
+    "lodash.debounce": "^4.0.8",
+    "normalize-css": "^2.3.1",
+    "nuxt": "^2.15.8",
+    "volar-service-vetur": "^0.0.13",
+    "vue": "^2.6.14",
+    "vue-server-renderer": "^2.6.14",
+    "vue-template-compiler": "^2.6.14",
+    "webpack": "^4.46.0",
+    "yarn": "^1.22.17"
+  },
+  "devDependencies": {
+    "@nuxt/image": "^0.6.0",
+    "sass": "^1.45.0",
+    "sass-loader": "10"
+  }
+}
